@@ -1,8 +1,8 @@
-# 8regine
-[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/CastellaniDavide/cpp-8regine/blob/master/LICENSE) ![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat) ![Version](https://img.shields.io/badge/version-v1.0-blue?style=flat) ![Language Python](https://img.shields.io/badge/language-Python-yellowgreen?style=flat) ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-Linux,%20Windows%20&%20Mac%20OS-blue?style=flat) [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/8regine)
+# queens
+[![GitHub license](https://img.shields.io/badge/license-GNU-green?style=flat)](https://github.com/CastellaniDavide/cpp-queens/blob/master/LICENSE) ![Author](https://img.shields.io/badge/author-Castellani%20Davide-green?style=flat) ![Version](https://img.shields.io/badge/version-v1.0-blue?style=flat) ![Language Python](https://img.shields.io/badge/language-Python-yellowgreen?style=flat) ![sys.platform supported](https://img.shields.io/badge/OS%20platform%20supported-Linux,%20Windows%20&%20Mac%20OS-blue?style=flat) [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/queens)
 
 ## Description
-Risoluzione del problema delle 8 regine
+Solution for the 8 queens problem. (support n queens).
 
 ## Required
  - python3
@@ -15,8 +15,8 @@ Risoluzione del problema delle 8 regine
    - workflows
      - python-test.yml
  - bin
-   - 8regine.py
-   - test_8regine.py
+   - queens.py
+   - test_queens.py
  - docs
    - LICENSE
    - README.md
@@ -26,8 +26,8 @@ Risoluzione del problema delle 8 regine
    - requirements.txt
    
 ### Execution examples
- - python3 8regine.py
- - python3 test_8regine.py
+ - python3 queens.py
+ - python3 test_queens.py # tester
 
 # Changelog
  - [Version_1.0_2021-2-7](#Version_10_2021-2-7)
@@ -39,4 +39,4 @@ Risoluzione del problema delle 8 regine
 Made by Castellani Davide 
 If you have any problem please contact me:
 - help@castellanidavide.it
-- [Issue](https://github.com/CastellaniDavide/8regine/issues)
+- [Issue](https://github.com/CastellaniDavide/queens/issues)
